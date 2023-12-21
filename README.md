@@ -1,5 +1,3 @@
-# FreeAL
-This is the PyTorch implementation of our EMNLP 2023 paper FreeAL. The code will be uploaded soon.
 # FreeAL: Towards Human-Free Active Learning in the Era of Large Language Models
 
 This is the implementation of our EMNLP 2023 paper [FreeAL](https://aclanthology.org/2023.emnlp-main.896/). 
